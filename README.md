@@ -1,0 +1,2 @@
+# lagix
+lagix bussiness intelligance
